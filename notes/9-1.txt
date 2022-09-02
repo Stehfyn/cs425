@@ -1,0 +1,28 @@
+Name
+What brought computers
+What interests you most
+
+Individual Assignment #1
+Due Monday, 9/12
+
+1. Possible project idea [500-750 words]
+2. Target CSE-related job [500-750 words]
+3. Software Quality
+	explain why these are examples of good quality
+	3 examples of main functions/features
+	3 examples of this software's tool's functions or capabilities tthat could be improved
+	briefly suggest improvements and explain why they improve [500-750]
+
+page numbers
+pdf
+number your answers
+submitted through canvas
+
+CS425
+	-concept
+	-initial spec and design
+	-early prototype
+
+CS426
+	-concept elaboration and expansion
+	-functional software product developed
