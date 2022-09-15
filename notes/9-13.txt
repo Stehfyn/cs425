@@ -1,0 +1,16 @@
+10:41 AM 9/13/2022
+
+Initiation
+planning
+execution
+testing
+launching
+closure
+
+refined as
+
+specification
+development
+validation
+evaluation
+
